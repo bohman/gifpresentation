@@ -22,17 +22,17 @@
 </head>
 <body class="show-no-image">
 
-    <div class="loader">
-      <div class="dot"></div>
-      <div class="dot2"></div>
-    </div>
+  <div class="loader">
+    <div class="dot"></div>
+    <div class="dot2"></div>
+  </div>
 
-    <img src="" alt="" class="first-image">
-    <img src="" alt="" class="second-image">
+  <img src="" alt="" class="first-image">
+  <img src="" alt="" class="second-image">
 
-    <p class="picture-counter"><span class="current-picture">0</span> / <span class="amount-of-pictures">0</span></p>
+  <p class="picture-counter"><span class="current-picture">0</span> / <span class="amount-of-pictures">0</span></p>
 
-    <p class="select-picture"></p>
+  <p class="select-picture"></p>
 
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
   <script>window.jQuery || document.write('<script src="js/library/jquery-1.9.0.min.js"><\/script>')</script>
